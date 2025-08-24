@@ -8,7 +8,6 @@ body {
 }
 header img {
   max-width: -webkit-fill-available;
-  max-height: 15rem;
 }
 .heading { 
   text-align: center; 
